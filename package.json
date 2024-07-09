@@ -14,6 +14,8 @@
     "next": "14.2.4"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "4.0.0-alpha.17",
+    "tailwindcss": "4.0.0-alpha.17",
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
